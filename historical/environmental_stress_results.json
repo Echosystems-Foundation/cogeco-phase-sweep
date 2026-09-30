@@ -1,0 +1,820 @@
+{
+  "deep_adaptive": [
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 25,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07098937546520545,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 50,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07375389072267281,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 100,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07633187370428761,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 200,
+      "regime": "ADAPTIVE",
+      "fitness": 0.08231449505244266,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 400,
+      "regime": "ADAPTIVE",
+      "fitness": 0.0799854313194408,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 25,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07196137868098146,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 50,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07766842573417554,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 100,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07017096699452655,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 200,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07553302487684617,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 400,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07667614019842256,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 25,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07711886261715428,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 50,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07345070974075524,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 100,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07716990081213357,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 200,
+      "regime": "ADAPTIVE",
+      "fitness": 0.0791779546002715,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 400,
+      "regime": "ADAPTIVE",
+      "fitness": 0.0714381459850085,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 25,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07834323071601924,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 50,
+      "regime": "ADAPTIVE",
+      "fitness": 0.0737521097187451,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 100,
+      "regime": "ADAPTIVE",
+      "fitness": 0.08232001851981124,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 200,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07974658917114583,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 400,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07222100687533126,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 25,
+      "regime": "ADAPTIVE",
+      "fitness": 0.0826488068538207,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 50,
+      "regime": "ADAPTIVE",
+      "fitness": 0.0822401577956588,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 100,
+      "regime": "ADAPTIVE",
+      "fitness": 0.08790473513023234,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 200,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07579738433647766,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 400,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07851060558555827,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 25,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07505981133397209,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 50,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07552298261527599,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 100,
+      "regime": "ADAPTIVE",
+      "fitness": 0.08131214105876729,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 200,
+      "regime": "ADAPTIVE",
+      "fitness": 0.0734453173561347,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 400,
+      "regime": "ADAPTIVE",
+      "fitness": 0.06974139249264691,
+      "revision_rate": 0.08,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    }
+  ],
+  "near_boundary": [
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 25,
+      "regime": "ADAPTIVE",
+      "fitness": 0.08001484105098908,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.25,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 50,
+      "regime": "CHAOTIC",
+      "fitness": 0.08240731323051155,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.5,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 100,
+      "regime": "ADAPTIVE",
+      "fitness": 0.0736321170829613,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 200,
+      "regime": "ADAPTIVE",
+      "fitness": 0.08159638735913327,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.25,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 400,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07414343566962082,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 25,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07282722839392716,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.125,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 50,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07230240896133522,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.375,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 100,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07637896489173229,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.375,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 200,
+      "regime": "ADAPTIVE",
+      "fitness": 0.08251448972740663,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.125,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 400,
+      "regime": "ADAPTIVE",
+      "fitness": 0.0742792759304329,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.375,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 25,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07745680281165863,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.125,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 50,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07695026572557934,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 100,
+      "regime": "ADAPTIVE",
+      "fitness": 0.06980401109571036,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.125,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 200,
+      "regime": "ADAPTIVE",
+      "fitness": 0.0818403787767893,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 400,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07467521774158133,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.375,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 25,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07092569760901887,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.125,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 50,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07990737704622504,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.25,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 100,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07488921334565193,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.25,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 200,
+      "regime": "ADAPTIVE",
+      "fitness": 0.08030871903383327,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 400,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07776030190270855,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.375,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 25,
+      "regime": "ADAPTIVE",
+      "fitness": 0.08602212478250734,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 50,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07459921575894905,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.125,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 100,
+      "regime": "CHAOTIC",
+      "fitness": 0.07570739254018219,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.625,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 200,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07461231243583687,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.375,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 400,
+      "regime": "ADAPTIVE",
+      "fitness": 0.0772541555274128,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.375,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 25,
+      "regime": "CHAOTIC",
+      "fitness": 0.07692247669715363,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.5,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 50,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07707297111787864,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.25,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 100,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07496003823242367,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.125,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 200,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07484775015861686,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.125,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 400,
+      "regime": "ADAPTIVE",
+      "fitness": 0.07964105927482633,
+      "revision_rate": 0.02,
+      "rollback_rate": 0.25,
+      "collapsed": false
+    }
+  ],
+  "outside_basin": [
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 25,
+      "regime": "CHAOTIC",
+      "fitness": 0.0744200303304578,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 50,
+      "regime": "CHAOTIC",
+      "fitness": 0.08191948092954797,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 100,
+      "regime": "CHAOTIC",
+      "fitness": 0.07691863430801286,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 200,
+      "regime": "CHAOTIC",
+      "fitness": 0.0799474424583033,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.1,
+      "shock_frequency": 400,
+      "regime": "CHAOTIC",
+      "fitness": 0.07464407690760293,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 25,
+      "regime": "CHAOTIC",
+      "fitness": 0.0808369878569819,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 50,
+      "regime": "CHAOTIC",
+      "fitness": 0.07296293463783508,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 100,
+      "regime": "CHAOTIC",
+      "fitness": 0.07937190320108144,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 200,
+      "regime": "CHAOTIC",
+      "fitness": 0.0766675651426019,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.2,
+      "shock_frequency": 400,
+      "regime": "CHAOTIC",
+      "fitness": 0.0795793984798395,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 25,
+      "regime": "CHAOTIC",
+      "fitness": 0.07818464566065605,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 50,
+      "regime": "CHAOTIC",
+      "fitness": 0.0789290592042213,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 100,
+      "regime": "CHAOTIC",
+      "fitness": 0.07672373085692254,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 200,
+      "regime": "CHAOTIC",
+      "fitness": 0.07685251388803258,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.3,
+      "shock_frequency": 400,
+      "regime": "CHAOTIC",
+      "fitness": 0.07524016048178533,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 25,
+      "regime": "CHAOTIC",
+      "fitness": 0.07606522036160161,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 50,
+      "regime": "CHAOTIC",
+      "fitness": 0.07733353983677614,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 100,
+      "regime": "CHAOTIC",
+      "fitness": 0.07562672342472834,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 200,
+      "regime": "CHAOTIC",
+      "fitness": 0.08284061866618486,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.5,
+      "shock_frequency": 400,
+      "regime": "CHAOTIC",
+      "fitness": 0.08416964353733027,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 25,
+      "regime": "CHAOTIC",
+      "fitness": 0.07847247677348688,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 50,
+      "regime": "CHAOTIC",
+      "fitness": 0.08251826145261579,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 100,
+      "regime": "CHAOTIC",
+      "fitness": 0.0769923994433654,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 200,
+      "regime": "CHAOTIC",
+      "fitness": 0.07411390680185995,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.7,
+      "shock_frequency": 400,
+      "regime": "CHAOTIC",
+      "fitness": 0.07646502846636315,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 25,
+      "regime": "CHAOTIC",
+      "fitness": 0.07659558795291393,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 50,
+      "regime": "CHAOTIC",
+      "fitness": 0.07150645261505426,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 100,
+      "regime": "CHAOTIC",
+      "fitness": 0.07487707483077971,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 200,
+      "regime": "CHAOTIC",
+      "fitness": 0.07828887290746463,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    },
+    {
+      "shock_magnitude": 0.9,
+      "shock_frequency": 400,
+      "regime": "CHAOTIC",
+      "fitness": 0.07495678013158585,
+      "revision_rate": 0.02,
+      "rollback_rate": 1.0,
+      "collapsed": false
+    }
+  ],
+  "REPRODUCIBILITY_STATUS": "NOT_ESTABLISHED",
+  "_historical_note": "HISTORICAL OUTPUT. Generated before the reproducibility repair, while the revision path drew from an uncontrolled global random stream. These numeric values are NOT reproducibility evidence and will NOT match a fresh run. Retained for provenance only. See docs/METRICS.md."
+}
